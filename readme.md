@@ -4,17 +4,19 @@ This repository collects all resoures and material that is helping me achieve ma
 None of this material is mine. I have collected them from various sources on Github and elsewhere. Big thank you to [josephmisiti](https://github.com/josephmisiti/awesome-machine-learning), [jhermann](https://github.com/jhermann/awesome-python-talks), [kirang89](https://github.com/kirang89/pycrumbs), [ujjwalkarn](https://github.com/ujjwalkarn/Machine-Learning-Tutorials), [s16h](https://github.com/s16h/py-must-watch), [datasciencemasters](https://github.com/datasciencemasters/go), and [hangtwenty](https://github.com/hangtwenty/dive-into-machine-learning). Much of my thinking and plans have been shaped by their awesome lists of resources. 
 
 ## Coursework
-* [Introduction to Computer Science and Programming using Python]
-* [Python for Data Science]
-* [Probability and Statistics in Data Science using Python]
+* [Introduction to Computer Science and Programming using Python](https://www.edx.org/course/introduction-to-computer-science-and-programming-using-python)
+* [Python for Data Science](https://www.edx.org/course/python-data-science-uc-san-diegox-dse200x)
+* [Probability and Statistics in Data Science using Python](https://www.edx.org/course/statistics-and-probability-in-data-science-using-python)
 * [Introduction to machine learning with Scikit-learn](http://blog.kaggle.com/2015/04/08/new-video-series-introduction-to-machine-learning-with-scikit-learn/)
-* [Machine Learning - Andrew Ng]
+* [Machine Learning - Andrew Ng](https://www.coursera.org/learn/machine-learning)
 * [Effective Thinking Through Mathematics](https://www.edx.org/course/effective-thinking-through-mathematics-utaustinx-ut-9-01x-0)
 * [Mathematics for Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/index.htm)
-* [Introduction to Coputational Thinking and Data Science]
-* [Artificial Intelligence - Columbia University]
-* [Deep Learning - Andrew Ng]
+* [Introduction to Coputational Thinking and Data Science](https://www.edx.org/course/introduction-computational-thinking-data-mitx-6-00-2x-6)
 * [Prof. Girolami's Machine Learning Course](https://github.com/josephmisiti/machine-learning-module/blob/master/week1/lect_1.pdf) - A more mathematical approach. Revisit after finishing all above courses to touch up any gaps in knowledge. 
+_________________________________
+
+* [Artificial Intelligence - Columbia University](https://www.edx.org/course/artificial-intelligence-ai-columbiax-csmm-101x-3)
+* [Deep Learning - Andrew Ng](https://www.coursera.org/specializations/deep-learning)
 
 ## Textbooks
 * [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/)
