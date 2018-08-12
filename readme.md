@@ -14,7 +14,7 @@ None of this material is mine. I have collected them from various sources on Git
 * [Mathematics for Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/index.htm)
 * [Introduction to Coputational Thinking and Data Science](https://www.edx.org/course/introduction-computational-thinking-data-mitx-6-00-2x-6)
 * [Prof. Girolami's Machine Learning Course](https://github.com/josephmisiti/machine-learning-module/blob/master/week1/lect_1.pdf) - A more mathematical approach. Revisit after finishing all above courses to touch up any gaps in mathematics, statistics, and algorithmic knowledge. 
-------------------------------
+
 Artificial intelligence and deep learning courses if time permits:
 
 * [Artificial Intelligence - Columbia University](https://www.edx.org/course/artificial-intelligence-ai-columbiax-csmm-101x-3)
@@ -53,7 +53,7 @@ Artificial intelligence and deep learning courses if time permits:
 * [A visual introduction to machine learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
 * [`scikit-learn` algorithm cheat sheet](http://scikit-learn.org/stable/tutorial/machine_learning_map/)
 * [Matplotlib/Pandas/Python cheat sheets](https://drive.google.com/drive/folders/0ByIrJAE4KMTtaGhRcXkxNHhmY2M)
-
+_________________________________________________________________
 ## My Codes and Solutions
 The links in this readme redirects to repositories containing my codes to practice problems, solutions to Kaggle competitions, and other arenas where I hone my chops. 
 
