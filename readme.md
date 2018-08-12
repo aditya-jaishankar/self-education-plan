@@ -14,7 +14,7 @@ None of this material is mine. I have collected them from various sources on Git
 * [Mathematics for Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/index.htm)
 * [Introduction to Coputational Thinking and Data Science](https://www.edx.org/course/introduction-computational-thinking-data-mitx-6-00-2x-6)
 * [Prof. Girolami's Machine Learning Course](https://github.com/josephmisiti/machine-learning-module/blob/master/week1/lect_1.pdf) - A more mathematical approach. Revisit after finishing all above courses to touch up any gaps in mathematics, statistics, and algorithmic knowledge. 
-_________________________________
+------------------------------
 Artificial intelligence and deep learning courses if time permits:
 
 * [Artificial Intelligence - Columbia University](https://www.edx.org/course/artificial-intelligence-ai-columbiax-csmm-101x-3)
@@ -62,7 +62,7 @@ The links in this readme redirects to repositories containing my codes to practi
 * [Advanced programming](https://techdevguide.withgoogle.com/paths/advanced/)
 * [Machine learning](https://techdevguide.withgoogle.com/paths/machine-learning/)
 
-## Repositories of Solutions to Practice Problems
+### Repositories of Solutions to Practice Problems
 * [Kaggle Competitions]
 * [Code Wars](https://github.com/aditya-jaishankar/codewars-solutions)
 * [Intermediate and Advanced Programming Problems]
