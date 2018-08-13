@@ -1,8 +1,8 @@
 # Machine Learning and Artificial Intelligence
-This repository collects all resoures and material that is helping me achieve mastery in Machine Learning and Artificial Intelligence through a self-education program. The materials are divided into two sections: **Resources**, and **My Codes and Solutions**.  
+This repository collects all resoures and material that I am using towards learning Machine Learning and Artificial Intelligence. The materials are divided into two sections: **Resources**, and **My Codes and Solutions**.  
 
 ## Resources
-None of this material is mine. I have collected them from various sources on Github and elsewhere. Big thank you to [josephmisiti](https://github.com/josephmisiti/awesome-machine-learning), [jhermann](https://github.com/jhermann/awesome-python-talks), [kirang89](https://github.com/kirang89/pycrumbs), [ujjwalkarn](https://github.com/ujjwalkarn/Machine-Learning-Tutorials), [s16h](https://github.com/s16h/py-must-watch), [datasciencemasters](https://github.com/datasciencemasters/go), and [hangtwenty](https://github.com/hangtwenty/dive-into-machine-learning). Much of my thinking and plans have been shaped by their awesome lists of resources. 
+None of this material is mine. I have collected them from various sources on Github and elsewhere. Many thanks to [josephmisiti](https://github.com/josephmisiti/awesome-machine-learning), [jhermann](https://github.com/jhermann/awesome-python-talks), [kirang89](https://github.com/kirang89/pycrumbs), [ujjwalkarn](https://github.com/ujjwalkarn/Machine-Learning-Tutorials), [s16h](https://github.com/s16h/py-must-watch), [datasciencemasters](https://github.com/datasciencemasters/go), and [hangtwenty](https://github.com/hangtwenty/dive-into-machine-learning). Much of my thinking and plans have been shaped by their awesome lists of resources. 
 
 ### Coursework
 * [Introduction to Computer Science and Programming using Python](https://www.edx.org/course/introduction-to-computer-science-and-programming-using-python)
