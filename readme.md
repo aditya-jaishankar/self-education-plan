@@ -15,10 +15,11 @@ None of this material is mine. I have collected them from various sources on Git
 * [Introduction to Coputational Thinking and Data Science](https://www.edx.org/course/introduction-computational-thinking-data-mitx-6-00-2x-6)
 * [Prof. Girolami's Machine Learning Course](https://github.com/josephmisiti/machine-learning-module/blob/master/week1/lect_1.pdf) - A more mathematical approach. Revisit after finishing all above courses to touch up any gaps in mathematics, statistics, and algorithmic knowledge. 
 
-Artificial intelligence and deep learning courses if time permits:
+Artificial intelligence, deep learning, and other courses if time permits:
 
 * [Artificial Intelligence - Columbia University](https://www.edx.org/course/artificial-intelligence-ai-columbiax-csmm-101x-3)
 * [Deep Learning - Andrew Ng](https://www.coursera.org/specializations/deep-learning)
+* [Probabilistic programming and Bayesian methods](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)
 
 ### Textbooks
 * [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/)
@@ -31,11 +32,25 @@ Artificial intelligence and deep learning courses if time permits:
 * [Awesome public datasets](https://github.com/awesomedata/awesome-public-datasets)
 
 **Python library resources**
+
+_numpy_
 * [From python to numpy](http://www.labri.fr/perso/nrougier/from-python-to-numpy/)
 * [matplotlib tutorial](https://github.com/rougier/matplotlib-tutorial)
 * [100 numpy exercises](https://github.com/rougier/numpy-100/blob/master/100_Numpy_exercises.md)
 * [numpy tutorial](http://www.labri.fr/perso/nrougier/teaching/numpy/numpy.html)
-* [Update with Pands resources after reviewing `hangtwenty` stuff]
+
+_pandas_
+* [pandas in 10 mins](http://pandas.pydata.org/pandas-docs/stable/10min.html) - Very basic, read first
+* [Things in `pandas` I wish I'd known earlier](http://nbviewer.jupyter.org/github/rasbt/python_reference/blob/master/tutorials/things_in_pandas.ipynb) - Very good
+* [Real world data clean-up using python and pandas](https://trendct.org/2016/08/05/real-world-data-cleanup-with-python-and-pandas/) - Slightly more advanced but read, internalize and understand.
+* [Great set of youtube videos on standard pandas tasks and some tricks](https://www.youtube.com/playlist?list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y)
+* [Basic pandas tasks from the documentation](http://pandas.pydata.org/pandas-docs/stable/dsintro.html) - Read early on
+* [Basic plotting with pandas and matplotlib](http://pandas.pydata.org/pandas-docs/version/0.15.0/visualization.html)
+* [Prettier plotting using the `plotly` library](https://plot.ly/pandas/)
+* [Statistics and computation using pandas](http://pandas.pydata.org/pandas-docs/stable/computation.html)
+* [Useful pandas snippets](http://www.swegler.com/becky/blog/2014/08/06/useful-pandas-snippets/) - Excellent cheat sheet involving common pandas tasks
+* [Intermideiate to advanced pandas techniques](http://pandas.pydata.org/pandas-docs/stable/cookbook.html) - Read and understand all
+* [Understanding and working with groupby](http://pandas.pydata.org/pandas-docs/stable/groupby.html) - From the pandas docs
 
 **Podcasts**
 * [Talking machines](http://www.thetalkingmachines.com/) - Begin with the starting simple episode.
@@ -48,11 +63,12 @@ Artificial intelligence and deep learning courses if time permits:
 * [A few useful things to know about Machine Learning](https://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf)
 
 **Other resources**
-* `hangtwenty` has some excellent resources on improving your `pandas` chops [here](https://github.com/hangtwenty/dive-into-machine-learning). Update the python library resources sub-heading above with a few key resources after reviewing and working through some of them.
-* Go to `hangtwenty` [list](https://github.com/hangtwenty/dive-into-machine-learning) for some great ipython notebooks to jump into machine leanring.
+* Go to `hangtwenty`'s [list](https://github.com/hangtwenty/dive-into-machine-learning) for some great ipython notebooks to jump into machine leanring.
+* [Data science workflow - Overview and challenges](https://cacm.acm.org/blogs/blog-cacm/169199-data-science-workflow-overview-and-challenges/fulltext)
 * [A visual introduction to machine learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
 * [`scikit-learn` algorithm cheat sheet](http://scikit-learn.org/stable/tutorial/machine_learning_map/)
 * [Matplotlib/Pandas/Python cheat sheets](https://drive.google.com/drive/folders/0ByIrJAE4KMTtaGhRcXkxNHhmY2M)
+* [Web scraping Indeed.com for key data science skills](http://nbviewer.jupyter.org/github/jmsteinw/Notebooks/blob/master/IndeedJobs.ipynb) - Try and understand this notebook completely.
 _________________________________________________________________
 ## My Codes and Solutions
 The links in this readme redirects to repositories containing my codes to practice problems, solutions to Kaggle competitions, and other arenas where I hone my chops. 
@@ -69,3 +85,5 @@ The links in this readme redirects to repositories containing my codes to practi
 * [Elements of Programming Interviews in Python]
 * [Cracking the Programming Interview]
 * [Projects](https://github.com/karan/Projects)
+* [Hackerrank Machine Learning](https://www.hackerrank.com/domains/ai/machine-learning/page/1)
+* [Challenges in Machine Learning](http://www.chalearn.org/)
