@@ -30,6 +30,7 @@ Artificial intelligence, deep learning, and other courses if time permits:
 
 **Public datasets**
 * [Awesome public datasets](https://github.com/awesomedata/awesome-public-datasets)
+* [Basic/simple corpora](https://github.com/dariusk/corpora)
 
 **Python library resources**
 
