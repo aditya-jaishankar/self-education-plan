@@ -24,6 +24,7 @@ Artificial intelligence, deep learning, and other courses if time permits:
 ### Textbooks
 * [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/)
 * [Elements of Statistical Learning](https://web.stanford.edu/%7Ehastie/Papers/ESLII.pdf)
+* [Deep learning with Python](https://www.manning.com/books/deep-learning-with-python?a_aid=keras&a_bid=76564dff) - Francois Chollet at Google who invented Keras, a simplified deep learning library for Python
 * [Update the other textbooks I have bought, with Amazon links to each]
 
 ### Miscellaneous Resources
