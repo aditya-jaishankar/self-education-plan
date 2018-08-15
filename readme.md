@@ -61,6 +61,7 @@ _pandas_
 
 **Useful blogposts, articles and papers**
 * [A few useful things to know about Machine Learning](https://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf)
+* [The limitations of deep learning](https://blog.keras.io/the-limitations-of-deep-learning.html)
 
 **Other resources**
 * Go to `hangtwenty`'s [list](https://github.com/hangtwenty/dive-into-machine-learning) for some great ipython notebooks to jump into machine leanring.
