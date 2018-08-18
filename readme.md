@@ -39,7 +39,9 @@ _numpy_
 * [From python to numpy](http://www.labri.fr/perso/nrougier/from-python-to-numpy/)
 * [matplotlib tutorial](https://github.com/rougier/matplotlib-tutorial)
 * [100 numpy exercises](https://github.com/rougier/numpy-100/blob/master/100_Numpy_exercises.md)
-* [numpy tutorial](http://www.labri.fr/perso/nrougier/teaching/numpy/numpy.html)
+* [numpy tutorial](http://www.labri.fr/perso/nrougier/teaching/numpy/numpy.html) - Nick Rougier
+* [101 numpy exercises](https://www.machinelearningplus.com/python/101-numpy-exercises-python/) - Good resource for basic numpy tasks
+* [numpy tutorial](https://www.machinelearningplus.com/python/numpy-tutorial-python-part2/)
 
 _pandas_
 * [pandas in 10 mins](http://pandas.pydata.org/pandas-docs/stable/10min.html) - Very basic, read first
@@ -53,6 +55,7 @@ _pandas_
 * [Useful pandas snippets](http://www.swegler.com/becky/blog/2014/08/06/useful-pandas-snippets/) - Excellent cheat sheet involving common pandas tasks
 * [Intermideiate to advanced pandas techniques](http://pandas.pydata.org/pandas-docs/stable/cookbook.html) - Read and understand all
 * [Understanding and working with groupby](http://pandas.pydata.org/pandas-docs/stable/groupby.html) - From the pandas docs
+* [101 pandas exercises](https://www.machinelearningplus.com/python/101-pandas-exercises-python/)
 
 **Podcasts**
 * [Talking machines](http://www.thetalkingmachines.com/) - Begin with the starting simple episode.
@@ -72,6 +75,7 @@ _pandas_
 * [`scikit-learn` algorithm cheat sheet](http://scikit-learn.org/stable/tutorial/machine_learning_map/)
 * [Matplotlib/Pandas/Python cheat sheets](https://drive.google.com/drive/folders/0ByIrJAE4KMTtaGhRcXkxNHhmY2M)
 * [Web scraping Indeed.com for key data science skills](http://nbviewer.jupyter.org/github/jmsteinw/Notebooks/blob/master/IndeedJobs.ipynb) - Try and understand this notebook completely.
+* [Getting started with Keras](https://towardsdatascience.com/getting-started-with-keras-e9fc04f7ea6a) - Google
 _________________________________________________________________
 ## My Codes and Solutions
 The links in this readme redirects to repositories containing my codes to practice problems, solutions to Kaggle competitions, and other arenas where I hone my chops. 
