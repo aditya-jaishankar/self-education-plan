@@ -77,6 +77,7 @@ _pandas_
 * [Matplotlib/Pandas/Python cheat sheets](https://drive.google.com/drive/folders/0ByIrJAE4KMTtaGhRcXkxNHhmY2M)
 * [Web scraping Indeed.com for key data science skills](http://nbviewer.jupyter.org/github/jmsteinw/Notebooks/blob/master/IndeedJobs.ipynb) - Try and understand this notebook completely.
 * [Getting started with Keras](https://towardsdatascience.com/getting-started-with-keras-e9fc04f7ea6a) - Google
+* [Google's seedbank](https://tools.google.com/seedbank/) - Collection of colaboratory notebooks to play and explore machine learning code. Select all posts under the Basic ML and internalize. 
 _________________________________________________________________
 ## My Codes and Solutions
 The links in this readme redirects to repositories containing my codes to practice problems, solutions to Kaggle competitions, and other arenas where I hone my chops. 
