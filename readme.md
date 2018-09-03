@@ -54,7 +54,7 @@ _pandas_
 * [Prettier plotting using the `plotly` library](https://plot.ly/pandas/)
 * [Statistics and computation using pandas](http://pandas.pydata.org/pandas-docs/stable/computation.html)
 * [Useful pandas snippets](http://www.swegler.com/becky/blog/2014/08/06/useful-pandas-snippets/) - Excellent cheat sheet involving common pandas tasks
-* [Intermideiate to advanced pandas techniques](http://pandas.pydata.org/pandas-docs/stable/cookbook.html) - Read and understand all
+* [Intermediate to advanced pandas techniques](http://pandas.pydata.org/pandas-docs/stable/cookbook.html) - Read and understand all
 * [Understanding and working with groupby](http://pandas.pydata.org/pandas-docs/stable/groupby.html) - From the pandas docs
 * [101 pandas exercises](https://www.machinelearningplus.com/python/101-pandas-exercises-python/)
 
@@ -68,6 +68,7 @@ _pandas_
 **Useful blogposts, articles and papers**
 * [A few useful things to know about Machine Learning](https://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf)
 * [The limitations of deep learning](https://blog.keras.io/the-limitations-of-deep-learning.html)
+* [Key skills I should master at the least](https://www.kdnuggets.com/2018/06/5-data-science-projects-hired.html)
 
 **Other resources**
 * Go to `hangtwenty`'s [list](https://github.com/hangtwenty/dive-into-machine-learning) for some great ipython notebooks to jump into machine leanring.
