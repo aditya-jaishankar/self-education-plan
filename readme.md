@@ -1,4 +1,4 @@
-# Machine Learning and Artificial Intelligence
+# Aritifical Intelligence with a Machine Learning Focus
 This repository collects all resoures and material that I am using towards learning Machine Learning and Artificial Intelligence. The materials are divided into two sections: **Resources**, and **My Codes and Solutions**.  
 
 ## Resources
@@ -7,6 +7,7 @@ None of this material is mine. I have collected them from various sources on Git
 ### Coursework
 * [Introduction to Computer Science and Programming using Python](https://www.edx.org/course/introduction-to-computer-science-and-programming-using-python)
 * [Python for Data Science](https://www.edx.org/course/python-data-science-uc-san-diegox-dse200x)
+* [Probability - The Science and Uncertainty of Data](https://courses.edx.org/courses/course-v1:MITx+6.431x+3T2018/course/)
 * [Probability and Statistics in Data Science using Python](https://www.edx.org/course/statistics-and-probability-in-data-science-using-python)
 * [Introduction to Machine Learning with scikit-learn](http://blog.kaggle.com/2015/04/08/new-video-series-introduction-to-machine-learning-with-scikit-learn/)
 * [Machine Learning - Andrew Ng](https://www.coursera.org/learn/machine-learning)
@@ -15,11 +16,20 @@ None of this material is mine. I have collected them from various sources on Git
 * [Introduction to Coputational Thinking and Data Science](https://www.edx.org/course/introduction-computational-thinking-data-mitx-6-00-2x-6)
 * [Prof. Girolami's Machine Learning Course](https://github.com/josephmisiti/machine-learning-module/blob/master/week1/lect_1.pdf) - A more mathematical approach. Revisit after finishing all above courses to touch up any gaps in mathematics, statistics, and algorithmic knowledge. 
 
-Artificial intelligence, deep learning, and other courses if time permits:
+*Artificial intelligence and deep learning courses:*
 
 * [Artificial Intelligence - Columbia University](https://www.edx.org/course/artificial-intelligence-ai-columbiax-csmm-101x-3)
 * [Deep Learning - Andrew Ng](https://www.coursera.org/specializations/deep-learning)
 * [Probabilistic programming and Bayesian methods](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)
+
+### Hands on Resources for learning-by-doing:
+
+* Go to `hangtwenty`'s [list](https://github.com/hangtwenty/dive-into-machine-learning) for some great ipython notebooks to jump into machine leanring.
+* [Machine learning crash course](https://developers.google.com/machine-learning/crash-course/) - Google Devs
+* [A visual introduction to machine learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
+* [Web scraping Indeed.com for key data science skills](http://nbviewer.jupyter.org/github/jmsteinw/Notebooks/blob/master/IndeedJobs.ipynb) - Try and understand this notebook completely.
+* [Getting started with Keras](https://towardsdatascience.com/getting-started-with-keras-e9fc04f7ea6a) - Google
+* [Google's seedbank](https://tools.google.com/seedbank/) - Collection of colaboratory notebooks to play and explore machine learning code. Select all posts under the Basic ML and internalize. 
 
 ### Textbooks
 * [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/)
@@ -71,15 +81,10 @@ _pandas_
 * [Key skills I should master at the least](https://www.kdnuggets.com/2018/06/5-data-science-projects-hired.html)
 
 **Other resources**
-* Go to `hangtwenty`'s [list](https://github.com/hangtwenty/dive-into-machine-learning) for some great ipython notebooks to jump into machine leanring.
-* [Machine learning crash course](https://developers.google.com/machine-learning/crash-course/) - Google Devs
+
 * [Data science workflow - Overview and challenges](https://cacm.acm.org/blogs/blog-cacm/169199-data-science-workflow-overview-and-challenges/fulltext)
-* [A visual introduction to machine learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
 * [`scikit-learn` algorithm cheat sheet](http://scikit-learn.org/stable/tutorial/machine_learning_map/)
 * [Matplotlib/Pandas/Python cheat sheets](https://drive.google.com/drive/folders/0ByIrJAE4KMTtaGhRcXkxNHhmY2M)
-* [Web scraping Indeed.com for key data science skills](http://nbviewer.jupyter.org/github/jmsteinw/Notebooks/blob/master/IndeedJobs.ipynb) - Try and understand this notebook completely.
-* [Getting started with Keras](https://towardsdatascience.com/getting-started-with-keras-e9fc04f7ea6a) - Google
-* [Google's seedbank](https://tools.google.com/seedbank/) - Collection of colaboratory notebooks to play and explore machine learning code. Select all posts under the Basic ML and internalize. 
 _________________________________________________________________
 ## My Codes and Solutions
 The links in this readme redirects to repositories containing my codes to practice problems, solutions to Kaggle competitions, and other arenas where I hone my chops. 
