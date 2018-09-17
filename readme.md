@@ -85,6 +85,7 @@ _pandas_
 * [Data science workflow - Overview and challenges](https://cacm.acm.org/blogs/blog-cacm/169199-data-science-workflow-overview-and-challenges/fulltext)
 * [`scikit-learn` algorithm cheat sheet](http://scikit-learn.org/stable/tutorial/machine_learning_map/)
 * [Matplotlib/Pandas/Python cheat sheets](https://drive.google.com/drive/folders/0ByIrJAE4KMTtaGhRcXkxNHhmY2M)
+* [Medium blogpost on textbooks and papers for machine learning and deep learning](https://medium.com/@yuxili/resources-for-deep-reinforcement-learning-a5fdf2dc730f)
 _________________________________________________________________
 ## My Codes and Solutions
 The links in this readme redirects to repositories containing my codes to practice problems, solutions to Kaggle competitions, and other arenas where I hone my chops. 
