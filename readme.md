@@ -13,7 +13,7 @@ None of this material is mine. I have collected them from various sources on Git
 * [Introduction to Machine Learning with scikit-learn](http://blog.kaggle.com/2015/04/08/new-video-series-introduction-to-machine-learning-with-scikit-learn/)
 * [Machine Learning - Andrew Ng](https://www.coursera.org/learn/machine-learning)
 * [Effective Thinking Through Mathematics](https://www.edx.org/course/effective-thinking-through-mathematics-utaustinx-ut-9-01x-0)
-* [Introduction to Coputational Thinking and Data Science](https://www.edx.org/course/introduction-computational-thinking-data-mitx-6-00-2x-6)
+* [Introduction to Computational Thinking and Data Science](https://www.edx.org/course/introduction-computational-thinking-data-mitx-6-00-2x-6)
 * [Prof. Girolami's Machine Learning Course](https://github.com/josephmisiti/machine-learning-module/blob/master/week1/lect_1.pdf) - A more mathematical approach. Revisit after finishing all above courses to touch up any gaps in mathematics, statistics, and algorithmic knowledge. 
 
 *Artificial intelligence and deep learning courses:*
