@@ -5,8 +5,8 @@ This repository collects all resoures and material that I am using towards learn
 None of this material is mine. I have collected them from various sources on Github and elsewhere. Many thanks to [josephmisiti](https://github.com/josephmisiti/awesome-machine-learning), [jhermann](https://github.com/jhermann/awesome-python-talks), [kirang89](https://github.com/kirang89/pycrumbs), [ujjwalkarn](https://github.com/ujjwalkarn/Machine-Learning-Tutorials), [s16h](https://github.com/s16h/py-must-watch), [datasciencemasters](https://github.com/datasciencemasters/go), and [hangtwenty](https://github.com/hangtwenty/dive-into-machine-learning). Much of my thinking and plans have been shaped by their awesome lists of resources. 
 
 ### Coursework
-* [Learning How to Learn: Powerful mental tools to help you master tough subjects](https://www.coursera.org/learn/learning-how-to-learn)
-* [Introduction to Computer Science and Programming using Python](https://www.edx.org/course/introduction-to-computer-science-and-programming-using-python)
+* [Learning How to Learn: Powerful mental tools to help you master tough subjects](https://www.coursera.org/learn/learning-how-to-learn) `completed`
+* [Introduction to Computer Science and Programming using Python](https://www.edx.org/course/introduction-to-computer-science-and-programming-using-python) `completed`
 * [Python for Data Science](https://www.edx.org/course/python-data-science-uc-san-diegox-dse200x)
 * [Probability - The Science and Uncertainty of Data](https://courses.edx.org/courses/course-v1:MITx+6.431x+3T2018/course/)
 * [Probability and Statistics in Data Science using Python](https://www.edx.org/course/statistics-and-probability-in-data-science-using-python)
