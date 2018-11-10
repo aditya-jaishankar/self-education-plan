@@ -5,19 +5,28 @@ This repository collects all resoures and material that I am using towards learn
 None of this material is mine. I have collected them from various sources on Github and elsewhere. Many thanks to [josephmisiti](https://github.com/josephmisiti/awesome-machine-learning), [jhermann](https://github.com/jhermann/awesome-python-talks), [kirang89](https://github.com/kirang89/pycrumbs), [ujjwalkarn](https://github.com/ujjwalkarn/Machine-Learning-Tutorials), [s16h](https://github.com/s16h/py-must-watch), [datasciencemasters](https://github.com/datasciencemasters/go), and [hangtwenty](https://github.com/hangtwenty/dive-into-machine-learning). Much of my thinking and plans have been shaped by their awesome lists of resources. 
 
 ### Coursework
+
+**The Basics and the General**
 * [Learning How to Learn: Powerful mental tools to help you master tough subjects](https://www.coursera.org/learn/learning-how-to-learn) `completed`
 * [Introduction to Computer Science and Programming using Python](https://www.edx.org/course/introduction-to-computer-science-and-programming-using-python) `completed`
 * [Python for Data Science](https://www.edx.org/course/python-data-science-uc-san-diegox-dse200x)
 * [Probability - The Science and Uncertainty of Data](https://courses.edx.org/courses/course-v1:MITx+6.431x+3T2018/course/)
 * [Probability and Statistics in Data Science using Python](https://www.edx.org/course/statistics-and-probability-in-data-science-using-python)
+* [Effective Thinking Through Mathematics](https://www.edx.org/course/effective-thinking-through-mathematics-utaustinx-ut-9-01x-0)
+
+**Machine Learning**
+* [Machine learning crash course](https://developers.google.com/machine-learning/crash-course/) - Google Devs, Highly recommended
+* [Introduction to machine learning for coders - fast.ai](https://course.fast.ai/ml)
 * [Introduction to Machine Learning with scikit-learn](http://blog.kaggle.com/2015/04/08/new-video-series-introduction-to-machine-learning-with-scikit-learn/)
 * [Machine Learning - Andrew Ng](https://www.coursera.org/learn/machine-learning)
-* [Effective Thinking Through Mathematics](https://www.edx.org/course/effective-thinking-through-mathematics-utaustinx-ut-9-01x-0)
+* [cs229 - Machine Learning](http://cs229.stanford.edu/) - The Stanford class by Andrew Ng which is a step up from the Coursera course
 * [Introduction to Computational Thinking and Data Science](https://www.edx.org/course/introduction-computational-thinking-data-mitx-6-00-2x-6)
 * [Prof. Girolami's Machine Learning Course](https://github.com/josephmisiti/machine-learning-module/blob/master/week1/lect_1.pdf) - A more mathematical approach. Revisit after finishing all above courses to touch up any gaps in mathematics, statistics, and algorithmic knowledge. 
 
-*Artificial intelligence and deep learning courses:*
+**Deep Learning**
 
+* [cs231n - Convolution Neural Networks for Visual Recognition](http://cs231n.stanford.edu/) - Highly recommended
+* [Deep Learning for Coders - fast.ai](https://course.fast.ai/) - Highly recommended.
 * [Artificial Intelligence - Columbia University](https://www.edx.org/course/artificial-intelligence-ai-columbiax-csmm-101x-3)
 * [Deep Learning - Andrew Ng](https://www.coursera.org/specializations/deep-learning)
 * [Probabilistic programming and Bayesian methods](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)
@@ -25,7 +34,6 @@ None of this material is mine. I have collected them from various sources on Git
 ### Hands on Resources for learning-by-doing:
 
 * Go to `hangtwenty`'s [list](https://github.com/hangtwenty/dive-into-machine-learning) for some great ipython notebooks to jump into machine leanring.
-* [Machine learning crash course](https://developers.google.com/machine-learning/crash-course/) - Google Devs
 * [A visual introduction to machine learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
 * [Web scraping Indeed.com for key data science skills](http://nbviewer.jupyter.org/github/jmsteinw/Notebooks/blob/master/IndeedJobs.ipynb) - Try and understand this notebook completely.
 * [Getting started with Keras](https://towardsdatascience.com/getting-started-with-keras-e9fc04f7ea6a) - Google
@@ -36,6 +44,7 @@ None of this material is mine. I have collected them from various sources on Git
 * [Elements of Statistical Learning](https://web.stanford.edu/%7Ehastie/Papers/ESLII.pdf)
 * [Deep learning with Python](https://www.manning.com/books/deep-learning-with-python?a_aid=keras&a_bid=76564dff) - Francois Chollet at Google who invented Keras, a simplified deep learning library for Python
 * [Update the other textbooks I have bought, with Amazon links to each]
+* [Bayesian Reinforcement Learning - A Survey, 	arXiv:1609.04436](https://arxiv.org/pdf/1609.04436.pdf)
 
 ### Miscellaneous Resources
 
@@ -43,6 +52,7 @@ None of this material is mine. I have collected them from various sources on Git
 * [Awesome public datasets](https://github.com/awesomedata/awesome-public-datasets)
 * [Basic/simple corpora](https://github.com/dariusk/corpora)
 * [Public datasets from Google](https://opensource.google.com/projects/search?q=tag%3Adatasets)
+* [CIFAR10 dataset](https://www.cs.toronto.edu/~kriz/cifar.html)
 
 **Python library resources**
 
@@ -79,6 +89,7 @@ _pandas_
 * [A few useful things to know about Machine Learning](https://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf)
 * [The limitations of deep learning](https://blog.keras.io/the-limitations-of-deep-learning.html)
 * [Key skills I should master at the least](https://www.kdnuggets.com/2018/06/5-data-science-projects-hired.html)
+* [Visualizing and Understanding Convolutional Networks](https://arxiv.org/pdf/1311.2901/)
 
 **Other resources**
 
@@ -86,6 +97,10 @@ _pandas_
 * [`scikit-learn` algorithm cheat sheet](http://scikit-learn.org/stable/tutorial/machine_learning_map/)
 * [Matplotlib/Pandas/Python cheat sheets](https://drive.google.com/drive/folders/0ByIrJAE4KMTtaGhRcXkxNHhmY2M)
 * [Medium blogpost on textbooks and papers for machine learning and deep learning](https://medium.com/@yuxili/resources-for-deep-reinforcement-learning-a5fdf2dc730f)
+The following two are beginner's guides to understanding deep neural networks. They seem excellent:
+* [A Beginners Guide to Understanding Convolutional Neural Networks - Part1](https://adeshpande3.github.io/adeshpande3.github.io/A-Beginner's-Guide-To-Understanding-Convolutional-Neural-Networks/)
+* [A Beginners Guide to Understanding Convolutional Neural Networks - Part2](https://adeshpande3.github.io/adeshpande3.github.io/A-Beginner's-Guide-To-Understanding-Convolutional-Neural-Networks-Part-2/)
+
 _________________________________________________________________
 ## My Codes and Solutions
 The links in this readme redirects to repositories containing my codes to practice problems, solutions to Kaggle competitions, and other arenas where I hone my chops. 
@@ -104,3 +119,25 @@ The links in this readme redirects to repositories containing my codes to practi
 * [Projects](https://github.com/karan/Projects)
 * [Hackerrank Machine Learning](https://www.hackerrank.com/domains/ai/machine-learning/page/1)
 * [Challenges in Machine Learning](http://www.chalearn.org/)
+______________________________________________________________________
+
+## Addendum: Collection of other resources
+
+**Papers to read**
+
+* [Introduction to Convolution Neural Networks - Jianxin Wu](https://pdfs.semanticscholar.org/450c/a19932fcef1ca6d0442cbf52fec38fb9d1e5.pdf)
+* [9 Deep learning Papers you need to know about](https://adeshpande3.github.io/The-9-Deep-Learning-Papers-You-Need-To-Know-About.html)
+* [LeCun, Y., Bengio, Y. and Hinton, G., 2015. Deep learning. nature, 521(7553), p.436.](https://creativecoding.soe.ucsc.edu/courses/cs523/slides/week3/DeepLearning_LeCun.pdf)
+* [Jordan, M.I. and Mitchell, T.M., 2015. Machine learning: Trends, perspectives, and prospects. Science, 349(6245), pp.255-260.](http://science.sciencemag.org/content/sci/349/6245/255.full.pdf?casa_token=B9Ocec3-P68AAAAA:mfRM5n5gcgdn8NHmSJzBKwsEw87JCtxKKceGzicJhjvYfSXEhv1hUf5mpXsK_myJt0FmNCH28GWe2ts)
+
+* [A more manageable list of highly cited Deep Learning papers](https://github.com/terryum/awesome-deep-learning-papers)
+* [Huge list of paper in this github repo](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap)
+
+**Papers to reproduce**
+
+Reproducing papers is a great way to level-up machine learning skills. Find a good listing of seminal ML and AI papers. Pick papers to reproduce - perhaps with a science-based application focus (Navier-Stokes equations, materials design, chemical synthesis, etc.?)
+
+The next two papers are both prediciting chaotic turbulent flow using an ML approach:
+* [Using Machine Learning to Replicate Chaotic Attractors and Calculate Lyapunov Exponents from Data.]
+* [Model-Free Prediction of Large Spatiotemporally Chaotic Systems from Data: A Reservoir Computing Approach]
+* [Top 20 most cited papers since 2014 - KDNugets](https://www.kdnuggets.com/2017/04/top-20-papers-machine-learning.html) - Pick a few based on interest and recreate from scratch.
