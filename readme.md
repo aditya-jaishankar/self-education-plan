@@ -40,6 +40,7 @@ None of this material is mine. I have collected them from various sources on Git
 * [Caltech's Machine Learning Class - Prof Abu-Mostafa](http://work.caltech.edu/lectures.html)
 * [Prof. Girolami's Machine Learning Course](https://github.com/josephmisiti/machine-learning-module/blob/master/week1/lect_1.pdf) - A more mathematical approach. Revisit after finishing all above courses to touch up any gaps in mathematics, statistics, and algorithmic knowledge.
 * [Bayesian Methods for Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)
+* [Grokking Deep Learning - Trask](https://www.manning.com/books/grokking-deep-learning?a_aid=grokkingdl&a_bid=32715258)
 
 **Deep Learning**
 
