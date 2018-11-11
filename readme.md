@@ -11,6 +11,8 @@ None of this material is mine. I have collected them from various sources on Git
 * [Introduction to Computer Science and Programming using Python](https://www.edx.org/course/introduction-to-computer-science-and-programming-using-python) `completed`
 * [Python for Data Science](https://www.edx.org/course/python-data-science-uc-san-diegox-dse200x)
 * [Probability - The Science and Uncertainty of Data](https://courses.edx.org/courses/course-v1:MITx+6.431x+3T2018/course/)
+* [Algorithm Design and Techniques](https://courses.edx.org/courses/course-v1:UCSanDiegoX+ALGS200x+2T2017/course/)
+* [Introduction to Computational Thinking and Data Science](https://www.edx.org/course/introduction-computational-thinking-data-mitx-6-00-2x-6)
 * [Probability and Statistics in Data Science using Python](https://www.edx.org/course/statistics-and-probability-in-data-science-using-python)
 * [Effective Thinking Through Mathematics](https://www.edx.org/course/effective-thinking-through-mathematics-utaustinx-ut-9-01x-0)
 
@@ -20,31 +22,55 @@ None of this material is mine. I have collected them from various sources on Git
 * [Introduction to Machine Learning with scikit-learn](http://blog.kaggle.com/2015/04/08/new-video-series-introduction-to-machine-learning-with-scikit-learn/)
 * [Machine Learning - Andrew Ng](https://www.coursera.org/learn/machine-learning)
 * [cs229 - Machine Learning](http://cs229.stanford.edu/) - The Stanford class by Andrew Ng which is a step up from the Coursera course
-* [Introduction to Computational Thinking and Data Science](https://www.edx.org/course/introduction-computational-thinking-data-mitx-6-00-2x-6)
-* [Prof. Girolami's Machine Learning Course](https://github.com/josephmisiti/machine-learning-module/blob/master/week1/lect_1.pdf) - A more mathematical approach. Revisit after finishing all above courses to touch up any gaps in mathematics, statistics, and algorithmic knowledge. 
+* [Some basic machine learning project ideas](https://github.com/hangtwenty/machine-learning)
+* [Some toy problem ideas](https://www.quora.com/Programming-Challenges-1/What-are-some-good-toy-problems-can-be-done-over-a-weekend-by-a-single-coder-in-data-science-Im-studying-machine-learning-and-statistics-and-looking-for-something-socially-relevant-using-publicly-available-datasets-APIs)
+* [Google's seedbank](https://tools.google.com/seedbank/) - Collection of colaboratory notebooks to play and explore machine learning code. Select all posts under the Basic ML and internalize.
+
+*Textbooks to follow along*
+
+* [Hands-On Machine Learning with Scikit-Learn and TensorFlow - Aurelien Geron](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1491962291)
+* [Python Data Analysis - Wes McKinney](https://www.amazon.com/Python-Data-Analysis-Wrangling-IPython/dp/1491957662/ref=sr_1_1?s=books&ie=UTF8&qid=1541974192&sr=1-1&keywords=python+mckinney)
+* [Python Machine Learning: Machine Learning and Deep Learning with Python, scikit-learn, and TensorFlow, 2nd Edition](https://www.amazon.com/Python-Machine-Learning-scikit-learn-TensorFlow/dp/1787125939/ref=dp_ob_title_bk)
+* [Elements of Statistical Learning](https://web.stanford.edu/%7Ehastie/Papers/ESLII.pdf)
+* [A course in Machine Learning - Hal Daume](http://ciml.info/dl/v0_99/ciml-v0_99-all.pdf)
+* [Machine Learning: A Probabilistic Perspective - Kevin Murphy](http://liuchengxu.org/books/src/Theory/Machine-Learning-A-Probabilistic-Perspective.pdf)
+
+*Some miscellaneous resources*
+
+* [Caltech's Machine Learning Class - Prof Abu-Mostafa](http://work.caltech.edu/lectures.html)
+* [Prof. Girolami's Machine Learning Course](https://github.com/josephmisiti/machine-learning-module/blob/master/week1/lect_1.pdf) - A more mathematical approach. Revisit after finishing all above courses to touch up any gaps in mathematics, statistics, and algorithmic knowledge.
+* [Bayesian Methods for Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)
 
 **Deep Learning**
 
+* [Neural Networks for Machine Learning - Geoff Hinton's course](https://www.coursera.org/learn/neural-networks)
 * [cs231n - Convolution Neural Networks for Visual Recognition](http://cs231n.stanford.edu/) - Highly recommended
+* [CS224d: Deep Learning for Natural Language Processing](http://cs224d.stanford.edu/index.html)
 * [Deep Learning for Coders - fast.ai](https://course.fast.ai/) - Highly recommended.
 * [Artificial Intelligence - Columbia University](https://www.edx.org/course/artificial-intelligence-ai-columbiax-csmm-101x-3)
 * [Deep Learning - Andrew Ng](https://www.coursera.org/specializations/deep-learning)
 * [Probabilistic programming and Bayesian methods](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)
 
+*Textbooks to follow along to*
+
+* [Deep Learning with Python - Francois Chollet](https://www.amazon.com/Deep-Learning-Python-Francois-Chollet/dp/1617294438/ref=sr_1_3?s=books&ie=UTF8&qid=1541974063&sr=1-3&keywords=deep+learning+with+python+chollet)
+* [Deep Learning - Ian Goodfellow, Yoshua Bengio, Aaron Courville, Francis Bach](https://www.amazon.com/Deep-Learning-Adaptive-Computation-Machine/dp/0262035618/ref=sr_1_3?s=books&ie=UTF8&qid=1541974095&sr=1-3&keywords=deep+learning+goodfellow)
+* [Python Machine Learning: Machine Learning and Deep Learning with Python, scikit-learn, and TensorFlow, 2nd Edition](https://www.amazon.com/Python-Machine-Learning-scikit-learn-TensorFlow/dp/1787125939/ref=dp_ob_title_bk)
+
 ### Hands on Resources for learning-by-doing:
 
-* Go to `hangtwenty`'s [list](https://github.com/hangtwenty/dive-into-machine-learning) for some great ipython notebooks to jump into machine leanring.
+* Go to `hangtwenty`'s [list](https://github.com/hangtwenty/dive-into-machine-learning) for some great ipython notebooks to jump into machine learning.
 * [A visual introduction to machine learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
 * [Web scraping Indeed.com for key data science skills](http://nbviewer.jupyter.org/github/jmsteinw/Notebooks/blob/master/IndeedJobs.ipynb) - Try and understand this notebook completely.
 * [Getting started with Keras](https://towardsdatascience.com/getting-started-with-keras-e9fc04f7ea6a) - Google
-* [Google's seedbank](https://tools.google.com/seedbank/) - Collection of colaboratory notebooks to play and explore machine learning code. Select all posts under the Basic ML and internalize. 
+* [Improve your python chops with this guide](https://github.com/hangtwenty/python-is-for-lovers)
 
 ### Textbooks
 * [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/)
-* [Elements of Statistical Learning](https://web.stanford.edu/%7Ehastie/Papers/ESLII.pdf)
+
 * [Deep learning with Python](https://www.manning.com/books/deep-learning-with-python?a_aid=keras&a_bid=76564dff) - Francois Chollet at Google who invented Keras, a simplified deep learning library for Python
-* [Update the other textbooks I have bought, with Amazon links to each]
 * [Bayesian Reinforcement Learning - A Survey, 	arXiv:1609.04436](https://arxiv.org/pdf/1609.04436.pdf)
+
 
 ### Miscellaneous Resources
 
