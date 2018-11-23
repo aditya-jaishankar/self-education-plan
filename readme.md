@@ -90,7 +90,7 @@ None of this material is mine. I have collected them from various sources on Git
 * [Labeled credit card transaction for fraud detection](https://www.kaggle.com/mlg-ulb/creditcardfraud)
 * [Labeled edible.poisonous mushrooms](https://www.kaggle.com/uciml/mushroom-classification)
 * [Gun violence datasets](https://www.kaggle.com/jameslko/gun-violence-data), [The github repo to the dataset](https://github.com/jamesqo/gun-violence-data)
-* [Music features dataset](https://www.kaggle.com/insiyeah/musicfeatures)
+* [Music features dataset](https://www.kaggle.com/insiyeah/musicfeatures). Also see the [Kaggle dataset](https://www.kaggle.com/c/mlp2016-7-msd-genre/data).
 * [Yelp Dataset](https://www.yelp.com/dataset)
 * [NASA Expolanet surbey](https://exoplanetarchive.ipac.caltech.edu/docs/data.html)
 * [Great collection of datasets on AWS](https://registry.opendata.aws/) - See [Subtitle meta-data](https://registry.opendata.aws/imdb/), [Medicare drug spending](https://registry.opendata.aws/medicare-drug-spending/)
@@ -101,6 +101,7 @@ None of this material is mine. I have collected them from various sources on Git
 * [USGS Earthquake data](https://earthquake.usgs.gov/earthquakes/search/) - Limit to 20,000 rows. About 5 to 6 months of earthquakes.
 * [Wikipedia analytics](https://dumps.wikimedia.org/other/analytics/) - See especially Pageviews and pagecount
 * [Pharma QSAR competition](http://tunedit.org/challenge/QSAR)
+* [Heart rate time-series](http://ecg.mit.edu/time-series/) - Explore at some point, seems interesting. 
 
 
 
