@@ -81,6 +81,29 @@ None of this material is mine. I have collected them from various sources on Git
 * [Public datasets from Google](https://opensource.google.com/projects/search?q=tag%3Adatasets)
 * [CIFAR10 dataset](https://www.cs.toronto.edu/~kriz/cifar.html)
 
+*Shortlisted Datasets*
+
+* [Wikipedia page on ML datasets](https://en.wikipedia.org/wiki/List_of_datasets_for_machine_learning_research)
+* [IMDB movie reviews Large Datasets](http://ai.stanford.edu/~amaas/data/sentiment/)
+* [Sentiment140](http://help.sentiment140.com/for-students/) - Dataset with labeled polarity of 1.6M tweets
+* [Million songs database](https://www.kaggle.com/c/mlp2016-7-msd-genre/data) - Music genre classification
+* [Labeled credit card transaction for fraud detection](https://www.kaggle.com/mlg-ulb/creditcardfraud)
+* [Labeled edible.poisonous mushrooms](https://www.kaggle.com/uciml/mushroom-classification)
+* [Gun violence datasets](https://www.kaggle.com/jameslko/gun-violence-data), [The github repo to the dataset](https://github.com/jamesqo/gun-violence-data)
+* [Music features dataset](https://www.kaggle.com/insiyeah/musicfeatures)
+* [Yelp Dataset](https://www.yelp.com/dataset)
+* [NASA Expolanet surbey](https://exoplanetarchive.ipac.caltech.edu/docs/data.html)
+* [Great collection of datasets on AWS](https://registry.opendata.aws/) - See [Subtitle meta-data](https://registry.opendata.aws/imdb/), [Medicare drug spending](https://registry.opendata.aws/medicare-drug-spending/)
+* [FBI hate crimes report data](https://github.com/emorisse/FBI-Hate-Crime-Statistics/tree/master/2013)
+* [Uber pickup data from Jan to June 2015](https://github.com/fivethirtyeight/uber-tlc-foil-response). Also see [Green and Yellow Cab data](http://www.nyc.gov/html/tlc/html/about/trip_record_data.shtml)
+* [US domestic flight data from 1990 to 2009](http://academictorrents.com/details/a2ccf94bbb4af222bf8e69dad60a68a29f310d9a)
+* [UCI machine learning repository](http://archive.ics.uci.edu/ml/index.php)
+* [USGS Earthquake data](https://earthquake.usgs.gov/earthquakes/search/) - Limit to 20,000 rows. About 5 to 6 months of earthquakes.
+* [Wikipedia analytics](https://dumps.wikimedia.org/other/analytics/) - See especially Pageviews and pagecount
+* [Pharma QSAR competition](http://tunedit.org/challenge/QSAR)
+
+
+
 **Python library resources**
 
 _numpy_
