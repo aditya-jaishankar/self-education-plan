@@ -87,6 +87,7 @@ None of this material is mine. I have collected them from various sources on Git
 * [IMDB movie reviews Large Datasets](http://ai.stanford.edu/~amaas/data/sentiment/)
 * [Sentiment140](http://help.sentiment140.com/for-students/) - Dataset with labeled polarity of 1.6M tweets
 * [Million songs database](https://www.kaggle.com/c/mlp2016-7-msd-genre/data) - Music genre classification
+* [UCI Music Analysis dataset](http://archive.ics.uci.edu/ml/datasets/FMA%3A+A+Dataset+For+Music+Analysis)
 * [Labeled credit card transaction for fraud detection](https://www.kaggle.com/mlg-ulb/creditcardfraud)
 * [Labeled edible, poisonous mushrooms](https://www.kaggle.com/uciml/mushroom-classification)
 * [Gun violence datasets](https://www.kaggle.com/jameslko/gun-violence-data), [The github repo to the dataset](https://github.com/jamesqo/gun-violence-data)
@@ -102,6 +103,9 @@ None of this material is mine. I have collected them from various sources on Git
 * [Wikipedia analytics](https://dumps.wikimedia.org/other/analytics/) - See especially Pageviews and pagecount
 * [Pharma QSAR competition](http://tunedit.org/challenge/QSAR)
 * [Heart rate time-series](http://ecg.mit.edu/time-series/) - Explore at some point, seems interesting. 
+* [NSF grant awards abstracts 190-2003](http://archive.ics.uci.edu/ml/datasets/NSF+Research+Award+Abstracts+1990-2003)
+* [UCI Air quality dataset](http://archive.ics.uci.edu/ml/datasets/Air+Quality)
+* [UCI Breast cancer database](http://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Diagnostic%29)
 
 
 
