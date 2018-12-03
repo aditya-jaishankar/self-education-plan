@@ -51,6 +51,7 @@ None of this material is mine. I have collected them from various sources on Git
 * [Artificial Intelligence - Columbia University](https://www.edx.org/course/artificial-intelligence-ai-columbiax-csmm-101x-3)
 * [Deep Learning - Andrew Ng](https://www.coursera.org/specializations/deep-learning)
 * [Probabilistic programming and Bayesian methods](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)
+* [Deep learning - Udacity](https://www.udacity.com/course/deep-learning--ud730) : Google's class on Deep Learning
 
 *Textbooks to follow along to*
 
