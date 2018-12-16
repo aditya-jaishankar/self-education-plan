@@ -53,7 +53,7 @@ None of this material is mine. I have collected them from various sources on Git
 * [Probabilistic programming and Bayesian methods](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)
 * [Deep learning - Udacity](https://www.udacity.com/course/deep-learning--ud730) : Google's class on Deep Learning
 
-*Textbooks to follow along to*
+*Textbooks to follow along*
 
 * [Deep Learning with Python - Francois Chollet](https://www.amazon.com/Deep-Learning-Python-Francois-Chollet/dp/1617294438/ref=sr_1_3?s=books&ie=UTF8&qid=1541974063&sr=1-3&keywords=deep+learning+with+python+chollet)
 * [Deep Learning - Ian Goodfellow, Yoshua Bengio, Aaron Courville, Francis Bach](https://www.amazon.com/Deep-Learning-Adaptive-Computation-Machine/dp/0262035618/ref=sr_1_3?s=books&ie=UTF8&qid=1541974095&sr=1-3&keywords=deep+learning+goodfellow)
@@ -67,9 +67,8 @@ None of this material is mine. I have collected them from various sources on Git
 * [Getting started with Keras](https://towardsdatascience.com/getting-started-with-keras-e9fc04f7ea6a) - Google
 * [Improve your python chops with this guide](https://github.com/hangtwenty/python-is-for-lovers)
 
-### Textbooks
+### Other textbooks
 * [Understanding Machine Learning: From Theory to Algorithms](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/)
-
 * [Deep learning with Python](https://www.manning.com/books/deep-learning-with-python?a_aid=keras&a_bid=76564dff) - Francois Chollet at Google who invented Keras, a simplified deep learning library for Python
 * [Bayesian Reinforcement Learning - A Survey, 	arXiv:1609.04436](https://arxiv.org/pdf/1609.04436.pdf)
 
